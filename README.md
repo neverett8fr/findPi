@@ -8,5 +8,8 @@ This is to find the value of Pi by plotting random points, I think this is a cla
 ### A = Total points plotted, 
 ### (r^2) = Total points within circle,
 ### total points less than one when doing Pythagorus law
+  
+# Final Maths:
+## (count[All plotted points within a circle] / count[All points total) * 4
 
 ### not sure if explained it well but you should be able to work it outtttt.
