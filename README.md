@@ -1,10 +1,12 @@
 # findPi
 This is to find the value of Pi by plotting random points, I think this is a classic interview question, also ew Python.
 
-#Maths Used:
-##Pythagorus law - a^2 + b^2 = c^2
-##A = (Pi)r^2
-##(Pi) = A/(r^2)
-###A = Total points plotted, (r^2) = Total points within circle, total points less than one when doing Pythagorus law
+# Maths Used:
+## Pythagorus law: a^2 + b^2 = c^2
+## A = (Pi)r^2
+## (Pi) = A/(r^2)
+### A = Total points plotted, 
+### (r^2) = Total points within circle,
+### total points less than one when doing Pythagorus law
 
 ### not sure if explained it well but you should be able to work it outtttt.
