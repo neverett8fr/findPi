@@ -1,5 +1,5 @@
 # findPi
-This is to find the value of Pi by plotting random points, I think this is a classic interview question, also ew Python.
+This is to find the value of Pi by plotting random points, I think this is a classic interview question.
 
 # Maths Used:
 ## Pythagorus law: a^2 + b^2 = c^2
